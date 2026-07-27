@@ -1,0 +1,37 @@
+;; data/culture-tx.edn — DataScript tx-data derived from
+;; src/culture/facts.cljc (ADR-2607171400). Generated, not hand-edited:
+;; test/culture/facts_test.clj asserts this file equals the catalog.
+
+[#:culture{:url "https://en.wikipedia.org/wiki/Dapeng_Fortress",
+           :id "shenzhen.heritage.dapeng-fortress",
+           :kind :heritage,
+           :name-local "大鹏城",
+           :country "CHN",
+           :retrieved-at "2026-07-27",
+           :municipality "shenzhen",
+           :summary
+           "A walled village in Longgang District, Shenzhen, built in 1394 to protect the area from pirates; listed as a cultural relics protection unit in Shenzhen in 1983 and recognised as a provincial cultural relics protection unit by Guangdong in 1989.",
+           :name "Dapeng Fortress",
+           :url-provenance :wikipedia-en}
+ #:culture{:url "https://en.wikipedia.org/wiki/Nantou,_Shenzhen",
+           :id "shenzhen.heritage.nantou",
+           :kind :heritage,
+           :name-local "南头",
+           :country "CHN",
+           :retrieved-at "2026-07-27",
+           :municipality "shenzhen",
+           :summary
+           "A historical walled town in Nanshan District, Shenzhen, and the former administrative centre of Xin'an County; established around 331 CE as the capital of Dongguan Prefecture, fortified in 736 CE under the Tang, with the present walled city built in 1394 under the Ming for coastal defence. The source states no formal heritage designation, only that it has been renamed 新安古城 and given a municipal museum.",
+           :name "Nantou (Xin'an Ancient City)",
+           :url-provenance :wikipedia-en}
+ #:culture{:url "https://en.wikipedia.org/wiki/Shenzhen",
+           :id "shenzhen.civic-history.first-special-economic-zone",
+           :kind :civic-history,
+           :name-local "经济特区",
+           :country "CHN",
+           :retrieved-at "2026-07-27",
+           :municipality "shenzhen",
+           :summary
+           "In May 1980 the Central Committee designated Shenzhen as the first Special Economic Zone in China, promoted by Deng Xiaoping as part of the reform and opening up policy. This is also the source of the SEZ legislative power under which one of this repo's two catalogued regulations was enacted.",
+           :name "China's first Special Economic Zone",
+           :url-provenance :wikipedia-en}]
