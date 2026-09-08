@@ -23,7 +23,7 @@
   correctly returns empty for all three rather than a plausible filler. The
   honest read of this catalog is 'a 45-year-old city with two Ming-era
   walled towns inside its boundary', not 'Shenzhen has little culture'."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 (def catalog
   "municipality-slug -> vector of culture entries."

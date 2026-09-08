@@ -34,7 +34,7 @@
     卫生健康委员会 (wjw.sz.gov.cn) publishes a 政策解读 of the same 2019
     revision, which corroborates the revision but is an interpretation, not
     the text -- so it is NOT cited as the source here."
-  (:require [clojure.string :as str]))
+  (:require [kotoba.lang.text :as str]))
 
 (def catalog
   "municipality-slug -> vector of ordinance entries."
