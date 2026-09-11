@@ -1,6 +1,6 @@
 ;; data/datascript-tx.edn — DataScript tx-data derived from
-;; src/ordinance/facts.cljc (ADR-2607141700). Generated, not hand-edited:
-;; test/ordinance/facts_test.clj asserts this file equals the catalog.
+;; src/ordinance/facts.cljk (ADR-2607141700). Generated, not hand-edited:
+;; test/ordinance/facts_test.cljk asserts this file equals the catalog.
 
 [#:ordinance{:kind :sez-regulation,
              :municipality "shenzhen",

@@ -1,6 +1,6 @@
 ;; data/culture-tx.edn — DataScript tx-data derived from
-;; src/culture/facts.cljc (ADR-2607171400). Generated, not hand-edited:
-;; test/culture/facts_test.clj asserts this file equals the catalog.
+;; src/culture/facts.cljk (ADR-2607171400). Generated, not hand-edited:
+;; test/culture/facts_test.cljk asserts this file equals the catalog.
 
 [#:culture{:url "https://en.wikipedia.org/wiki/Dapeng_Fortress",
            :id "shenzhen.heritage.dapeng-fortress",
