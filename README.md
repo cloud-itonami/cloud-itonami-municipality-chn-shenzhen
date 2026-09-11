@@ -71,4 +71,4 @@ AGPL-3.0-or-later.
 
 ## Running it
 
-`clojure -M:test` (19 tests, 65 assertions) and `clojure -M:lint`.
+`kbb -M:test` (19 tests, 65 assertions) and `kbb -M:lint`.
