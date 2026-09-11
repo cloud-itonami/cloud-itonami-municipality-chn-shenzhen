@@ -61,7 +61,7 @@ it", not "Shenzhen has little culture".
 
 ## Data
 
-`src/ordinance/facts.cljc`, `src/culture/facts.cljc`, schemas identical to
+`src/ordinance/facts.cljk`, `src/culture/facts.cljk`, schemas identical to
 every sibling (a test asserts every attribute used is declared), and
 generated `data/*-tx.edn` (tests assert they match the catalogs).
 
